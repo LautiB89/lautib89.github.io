@@ -1,0 +1,16 @@
+#game-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 2px solid #dbdbdb;
+  border-radius: 5px;
+}
+
+body {
+  background-color: rgb(44, 44, 44);
+  color: #dbdbdb; /* Set the primary text color */
+}
